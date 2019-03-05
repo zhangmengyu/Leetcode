@@ -2,7 +2,7 @@
 
 
 Num|Num of LeetCode|Title|Solution|Difficulty
-:----:|:---:|:------:|:--------:
+:----:|:----:|:---:|:------:|:--------:
 1|[1](https://leetcode-cn.com/problems/two-sum/description/)|[Two Sum](https://leetcode-cn.com/problems/two-sum/description/)|[Source Code](./Algorithms/Two%20Sum/two-sum-1.js)|Easy
 2|[7](https://leetcode-cn.com/problems/reverse-integer/description/)|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/description/)|[Source Code](./Algorithms/Reverse%20Integer/reverse-integer-1.js)|Easy
 3|[11](https://leetcode-cn.com/problems/container-with-most-water/)|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)|[Source Code](./Algorithms/Container%20With%20Most%20Water/container-with-most-water-1.js)|Medium
